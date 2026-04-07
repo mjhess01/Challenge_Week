@@ -1,4 +1,4 @@
-li = [1, 10, 8, 3, 2]
+li = []
 
 def find_max(li):
     current_max = 0
